@@ -3,3 +3,17 @@ body {
     color: black;
     font-size: 35px;
 }
+
+h1{
+    color: black;
+}
+
+h2{
+    background-color: #524656;
+    color: aliceblue;
+}
+
+img {
+    width: 500px;
+    height: 300px;
+}
